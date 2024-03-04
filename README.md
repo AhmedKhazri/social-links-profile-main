@@ -28,12 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop screenshot
+![Desktop screenshot](./assets/images/desktop-screenshot.png)
+Mobile screenshot
+![Mobile screenshot](./assets/images/mobile-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github repo](https://github.com/AhmedKhazri/social-links-profile-main)
+- Live Site URL: [live site](https://ahmedkhazri.github.io/social-links-profile-main/#)
 
 ## My process
 
@@ -42,26 +45,16 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - desktop-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+I learned how to declare global css variables :
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+:root {
+    --green: hsl(75, 94%, 57%);
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 20%);
+    --dark-grey: hsl(0, 0%, 12%);
+    --off-black: hsl(0, 0%, 8%);
 ```
 
 
@@ -69,7 +62,7 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@AhmedKhazri](https://www.frontendmentor.io/profile/AhmedKhazri)
+- Twitter - [@ahmed95khazri](https://twitter.com/ahmed95khazri)
+
 
